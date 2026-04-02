@@ -2,7 +2,7 @@ Scientific benchmarking framework for CUDA matrix multiplication on NVIDIA Jetso
 
 <p align="center">
   <a href="https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis" target="_blank">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks v1.0.0" width="640"/>
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_latest_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks v1.0.0" width="640"/>
   </a>
 </p>
 
